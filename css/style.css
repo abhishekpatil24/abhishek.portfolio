@@ -408,7 +408,7 @@ section.blog .section-heading{
 
 section.blog .card-wrapper-blog{
     display: grid;
-    grid-template-columns: repeat(2,1fr);
+    grid-template-columns: repeat(3,1fr);
     grid-gap: 5rem;
     margin-right: 6rem;
     padding: 6rem 6rem;
